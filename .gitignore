@@ -1,0 +1,49 @@
+# Env
+/.env
+
+# модули
+common/modules
+
+# компоненты задарма
+common/components/zadarma
+common/components/install_modules
+
+# Composer
+/vendor
+composer.phar
+
+# JS
+node_modules
+spa/npm-debug.log
+spa/yarn-error.log
+
+# IDE
+.idea
+nbproject
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit
+phpunit.phar
+/phpunit.xml
+
+# Vagrant
+/.vagrant
+
+# Tests
+tests/codeception/*/_support/_generated/*
+
+composer.lock
+log.log
+nohup.out
+
+storage/web
+
+server_websocket/domain.php

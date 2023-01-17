@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /partners
+Allow: /service
+Allow: /blog
+Allow: /contact
+Allow: /support
+Allow: /agreement
+Allow: /condition
+
+Allow: /blog/*
+
+
+Allow: /cases/*
+
+Disallow: /analytics
+Disallow: /signup
+Disallow: /login
+Disallow: /user/sign-in/request-password-reset
+Disallow: /blog?ArticleSearch[category_id]=*
+Disallow: /article/view?slug=*
+Disallow: /getaudit
+Disallow: /ordersite
+Disallow: /orderbot
+Disallow: /orderanalytics
+Disallow: /orderkp
+
+Host: https://infomarketstudio.ru
+
+Sitemap: https://infomarketstudio.ru/sitemap.xml

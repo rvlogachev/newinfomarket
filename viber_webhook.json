@@ -1,0 +1,27 @@
+{
+   "url":"https://infomarketstudio.ru/site/viber",
+   "event_types":[
+      "delivered",
+      "seen",
+      "failed",
+      "subscribed",
+      "unsubscribed",
+      "conversation_started"
+   ],
+   "send_name": true,
+   "send_photo": true
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
